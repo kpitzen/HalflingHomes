@@ -8,7 +8,6 @@ class AHalflingHomesCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
-	//This is just to test github
 
 	/** Camera boom positioning the camera behind the character */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
